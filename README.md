@@ -1,7 +1,7 @@
-```markdown
 # Amazon Brazil Marketplace Analytics 📊
 
 ## Project Overview
+
 This project analyzes Amazon Brazil marketplace data to understand business performance across customers, sellers, products, revenue, and operations using SQL.
 
 The objective of this analysis was to convert raw e-commerce transactional data into meaningful business insights by solving real-world marketplace problems related to customer behavior, seller performance, product trends, and operational efficiency.
@@ -22,6 +22,7 @@ The objective of this analysis was to convert raw e-commerce transactional data 
 ## Business Areas Analyzed
 
 ### Customer & Market Intelligence
+
 - Identified high-value customers based on their total spending.
 - Analyzed customer ordering behavior across different states.
 - Evaluated customer engagement through review participation.
@@ -29,6 +30,7 @@ The objective of this analysis was to convert raw e-commerce transactional data 
 ![Highest Spending Customer](Screenshots/03_highest_spending_customer.png)
 
 ### Seller Performance & Fulfillment
+
 - Analyzed seller contribution across different states.
 - Identified seller activity and marketplace participation.
 - Evaluated seller performance compared with platform averages.
@@ -38,6 +40,7 @@ The objective of this analysis was to convert raw e-commerce transactional data 
 ![Dormant Sellers - Zero Orders](Screenshots/05_dormant_sellers_zero_orders.png)
 
 ### Revenue & Product Portfolio Analytics
+
 - Analyzed cumulative revenue growth across product categories.
 - Studied category-level revenue contribution patterns.
 - Evaluated product demand and catalog performance.
@@ -49,6 +52,7 @@ The objective of this analysis was to convert raw e-commerce transactional data 
 ![Top 5 Revenue Categories](Screenshots/02_top5_revenue_categories.png)
 
 ### Operations & Customer Experience
+
 - Analyzed customer payment preferences.
 - Evaluated delivery performance using median delivery time.
 
@@ -59,6 +63,7 @@ The objective of this analysis was to convert raw e-commerce transactional data 
 ---
 
 ## SQL Advanced Techniques Used
+
 - **Complex Joins** across multiple tables (Orders, Customers, Payments, Reviews).
 - **Common Table Expressions (CTEs)** for modular and readable query logic.
 - **Window Functions** (`ROW_NUMBER()`, `RANK()`, `SUM() OVER`) for deep-dive trends.
@@ -67,6 +72,7 @@ The objective of this analysis was to convert raw e-commerce transactional data 
 ---
 
 ## Tools & Technologies
+
 - **Database Server:** MySQL
 - **Client Tool:** MySQL Workbench
 - **Skills:** Data Analysis, Business Analytics, SQL Query Optimization
@@ -74,13 +80,14 @@ The objective of this analysis was to convert raw e-commerce transactional data 
 ---
 
 ## Conclusion
+
 This project demonstrates the use of SQL to analyze large-scale e-commerce data and transform it into a better understanding of marketplace performance and highlights opportunities for improving operational efficiency.
 
 ---
 
 ## Author
+
 *Kavita Kanwar Naruka*
 
 - **LinkedIn:** [kavita-kanwar1190](https://www.linkedin.com/in/kavita-kanwar1190)
 - **Email:** [kavita.kanwar1190@gmail.com](mailto:kavita.kanwar1190@gmail.com)
-```
