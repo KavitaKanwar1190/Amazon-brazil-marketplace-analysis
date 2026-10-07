@@ -1,3 +1,6 @@
+Absolutely. Here is the **final README**, with the `Screenshots/` folder paths correctly added and with your original README structure/content preserved. The two screenshots belonging to the same analysis are kept under **one heading**.
+
+```markdown
 # Amazon Brazil Marketplace Analytics 📊
 
 ## Project Overview
@@ -13,6 +16,8 @@ The objective of this analysis was to convert raw e-commerce transactional data 
   * 📄 **[Amazon_Brazil_Analysis.sql](Amazon_Brazil_Analysis.sql)** — *Main analytical SQL queries for business insights.*
 * 📁 **Documentation/**
   * 📕 **[Amazon_Brazil_Marketplace_Analytics.pdf](Amazon_Brazil_Marketplace_Analytics.pdf)** — *Executive presentation & final report.*
+* 📁 **Screenshots/**
+  * 🖼️ **SQL analysis screenshots and query outputs**
 
 ---
 
@@ -23,19 +28,35 @@ The objective of this analysis was to convert raw e-commerce transactional data 
 - Analyzed customer ordering behavior across different states.
 - Evaluated customer engagement through review participation.
 
+![Highest Spending Customer](Screenshots/03_highest_spending_customer.png)
+
 ### Seller Performance & Fulfillment
 - Analyzed seller contribution across different states.
 - Identified seller activity and marketplace participation.
 - Evaluated seller performance compared with platform averages.
+
+![Above Average Sellers - Top Seller Program](Screenshots/04_above_average_sellers_top_seller_program.png)
+
+![Dormant Sellers - Zero Orders](Screenshots/05_dormant_sellers_zero_orders.png)
 
 ### Revenue & Product Portfolio Analytics
 - Analyzed cumulative revenue growth across product categories.
 - Studied category-level revenue contribution patterns.
 - Evaluated product demand and catalog performance.
 
+![Cumulative Revenue by Category](Screenshots/01_cumulative_revenue_by_category.png)
+
+![Cumulative Revenue by Category](Screenshots/001_cumulative_revenue_by_category.png)
+
+![Top 5 Revenue Categories](Screenshots/02_top5_revenue_categories.png)
+
 ### Operations & Customer Experience
 - Analyzed customer payment preferences.
 - Evaluated delivery performance using median delivery time.
+
+![Median Delivery Time - Window Function](Screenshots/06_median_delivery_time_window_function.png)
+
+![Median Delivery Time - Window Function](Screenshots/006_median_delivery_time_window_function.png)
 
 ---
 
@@ -64,3 +85,4 @@ This project demonstrates the use of SQL to analyze large-scale e-commerce data 
 
 - **LinkedIn:** [kavita-kanwar1190](https://www.linkedin.com/in/kavita-kanwar1190)
 - **Email:** [kavita.kanwar1190@gmail.com](mailto:kavita.kanwar1190@gmail.com)
+```
