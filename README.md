@@ -1,5 +1,3 @@
-Absolutely. Here is the **final README**, with the `Screenshots/` folder paths correctly added and with your original README structure/content preserved. The two screenshots belonging to the same analysis are kept under **one heading**.
-
 ```markdown
 # Amazon Brazil Marketplace Analytics 📊
 
